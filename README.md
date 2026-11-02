@@ -42,9 +42,9 @@ Prerequisites
 	•	npm
 Installation
 Clone the repository:
-git clone https://github.com/IVAR58/-SP.git
+git clone https://github.com/IVAR58/GalaSport.git
 Navigate to the project directory:
-cd -SP
+cd GalaSport
 Install dependencies:
 npm install
 Start the development server:
